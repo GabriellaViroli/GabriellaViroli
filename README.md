@@ -1,14 +1,14 @@
-✨ Hi there!! Welcome to my Github profile ✨
+<h3>✨ Hi there!! Welcome to my Github profile ✨</h3>
 <h3>I'm Gabriella (She/Her)</h3>
 
  - 🌱 I’m currently learning JavaScript, CSS and HTML
  - 🤓 I'm a librarian with a master's degree in Information Management 
  - 💬 Ask me about UX/UI Design
  - 👀	 Although my current formation is in front-end (JS), I am interested in learning Python 
- - 📫 Reach me: gvccgabriella@gmail.com
  
  ##
 
+<h3>🔨 Programming languages, frameworks and tools:</h3>
    
   <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -19,8 +19,7 @@
   </div>
   
 ##
-
-
+<h3>📫 Reach me: </h3>
 <div> 
 <a href="mailto:gvccgabriella@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriella-viroli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
