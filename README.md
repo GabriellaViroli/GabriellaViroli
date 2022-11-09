@@ -1,7 +1,10 @@
 <h3>✨ Hi there!! Welcome to my Github profile ✨</h3>
 <h3>I'm Gabriella (She/Her)</h3>
 
- - 🌱 I’m currently learning JavaScript, CSS and HTML
+
+A Front-end Developer from Monday to Friday, a boring geek on the weekends. 
+
+- 🌱 I’m currently learning JavaScript, CSS and HTML
  - 🤓 I'm a librarian with a master's degree in Information Management 
  - 💬 Ask me about UX/UI Design
  - 👀	 Although my current formation is in front-end (JS), I am interested in learning Python 
