@@ -2,12 +2,12 @@
 <h3>I'm Gabriella (She/Her)</h3>
 
 
-A Front-end Developer from Monday to Friday, a boring geek on the weekends. 
+A Data Engineer from Monday to Friday, a boring geek on the weekends. 
 
-- 🌱 I’m currently learning JavaScript, CSS and HTML
+- 🌱 I’m currently learning Python, SQL, Data Pipeline and Data Engineering 
  - 🤓 I'm a librarian with a master's degree in Information Management 
- - 💬 Ask me about UX/UI Design
- - 👀	 Although my current formation is in front-end (JS), I am interested in learning Python 
+ - 💬 Ask me about JavaScript 
+ - 👀	 Although my current formation is in front-end (JS), I'm currently working as a Data Engineer
  
  ##
 
@@ -18,7 +18,9 @@ A Front-end Developer from Monday to Friday, a boring geek on the weekends.
     <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />                 
+    <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/python-original.svg" />
+ <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/sql-original.svg" />
   </div>
   
 ##
