@@ -19,8 +19,7 @@ A Data Engineer from Monday to Friday, a boring geek on the weekends.
     <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/python-original.svg" />
- <img align="center" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/sql-original.svg" />
+    
   </div>
   
 ##
